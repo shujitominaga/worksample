@@ -107,5 +107,5 @@ title:Python超入門その１５〜かっこいいラムダ式を使いこな�
 参考URL：http://qiita.com/ryo-ma/items/24c46592b45775e8644d  
 title:Rubyの ブロック、Proc.new、lambdaの違い  
 
-参考URL：http://d.hatena.ne.jp/mirichi/20141008/p1
-title:手続き脳のためのラムダ式のはなし
+参考URL：http://d.hatena.ne.jp/mirichi/20141008/p1  
+title:手続き脳のためのラムダ式のはなし  
