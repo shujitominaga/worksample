@@ -102,7 +102,10 @@ returnなどの動作に関してはProcとlambdaでは異なりlambda方はメ�
 
 
 参考URL：http://programming-study.com/technology/python-use-lambda-ceremony/  
-Python超入門その１５〜かっこいいラムダ式を使いこなそう〜  
+title:Python超入門その１５〜かっこいいラムダ式を使いこなそう〜  
 
 参考URL：http://qiita.com/ryo-ma/items/24c46592b45775e8644d  
-Rubyの ブロック、Proc.new、lambdaの違い  
+title:Rubyの ブロック、Proc.new、lambdaの違い  
+
+参考URL：http://d.hatena.ne.jp/mirichi/20141008/p1
+title:手続き脳のためのラムダ式のはなし
