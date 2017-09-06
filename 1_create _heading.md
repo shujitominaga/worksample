@@ -9,16 +9,16 @@
 ## Railsを触る前に知っておきたい事
 ### ビュー（view）
 ### コントローラー（controlle）
-### ルーティング（routing）
+### ルーティング（routing） 
 
-### 参考URL：http://prog-8.com/rails5/study/1/1
-### Ruby on Railsを学ぼう
+参考URL：http://prog-8.com/rails5/study/1/1  
+title:Ruby on Railsを学ぼう  
 
-### 参考URL：https://openbook4.me/projects/92
-### 小学生でもわかる Ruby On Rails 入門
+参考URL：https://openbook4.me/projects/92  
+title:小学生でもわかる Ruby On Rails 入門  
 
-### 参考URL：http://www.rubylife.jp/rails/
-### Ruby Life 初心者の方でも分かりやすい学習サイト
+参考URL：http://www.rubylife.jp/rails/  
+title:Ruby Life 初心者の方でも分かりやすい学習サイト   
 
 
 # 誤差逆伝搬法を学ぶ前に
@@ -39,11 +39,11 @@
 ### ２． 出力層から，δoutkδkout を得る．
 ### ３．δoutδout を伝播させ，δhiddenjδjhidden を得る．
 ### ４．さらに逆伝播させて，δhiddeniδihidden を得る．あとは同様に，入力層の一つ手前の層に到達するまで δδ を逆伝播させる．
-### ５．重み w∗∗w∗∗ に関する全ての勾配を次の式で得る．
+### ５．重み w∗∗w∗∗ に関する全ての勾配を次の式で得る． 
 
 
-### 参考URL：http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c
-### 誤差逆伝播法のノート
+参考URL：http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c  
+title:誤差逆伝播法のノート  
 
-### 参考URL：http://qiita.com/43x2/items/50b55623c890564f1893
-### 誤差逆伝播法をはじめからていねいに
+参考URL：http://qiita.com/43x2/items/50b55623c890564f1893  
+title:誤差逆伝播法をはじめからていねいに  
